@@ -16,4 +16,4 @@
 
 # Coverage
 
-- npm run est:coverage
+- npm run test:coverage
